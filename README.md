@@ -33,5 +33,6 @@ mi-sitio-web/
 
 	## 📈 Imágenes de la interfaz
 
-![Vista previa del sitio web](https://raw.githubusercontent.com/delopser8/ejercicio-despliegue/master/index.png)
+![Vista previa del sitio web](https://raw.githubusercontent.com/delopser8/ejercicio-despliegue/master/imgindex.png)
 
+![Vista previa del sitio web](https://raw.githubusercontent.com/delopser8/ejercicio-despliegue/master/imgindex2.png)
