@@ -31,7 +31,7 @@ mi-sitio-web/
 -   Abre el index.html en un navegador.
 -   Dale "click" al botón para ver como salta un mensaje que reacciona a esa acción.
 
-	## 📈 Imágenes de la interfaz
+	## 📈 Imágenes de la interfaz (sin pulsar botón / al pulsar botón)
 
 ![Vista previa del sitio web](https://raw.githubusercontent.com/delopser8/ejercicio-despliegue/master/imgindex.png)
 
